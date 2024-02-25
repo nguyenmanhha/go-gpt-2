@@ -1,1 +1,1 @@
-# speculativejs
+# GPT-2 Go reference implementation 
